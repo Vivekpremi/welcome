@@ -20,7 +20,7 @@ This accelerator aims to accelerate polynomial multiplication using a pipelined 
 ---
 
 ## 3. Top-Level Hardware Architecture
-
+```
                   +--------------------------+
                   |     RISC-V Processor     |
                   |        (VexRiscv)        |
