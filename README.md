@@ -76,7 +76,7 @@ This accelerator aims to accelerate polynomial multiplication using a pipelined 
                                |
                                v
                      Output Polynomial C(x)
-
+```
 ---
 
 ## 4. Accelerator Microarchitecture
